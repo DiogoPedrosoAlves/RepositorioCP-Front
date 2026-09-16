@@ -19,7 +19,6 @@ function News(props: NewsProps) {
             <h1>{props.titulo}</h1>
             <p>{props.comentarios}</p>
             <p>{props.categoria}</p>
-            <button></button>
         </div>
     )
 }
