@@ -11,8 +11,10 @@ function App() {
       <Header />
       <main>
         <Router>
-          <Route path='/' element={<HomePage/>}></Route>
-          <Route path='/news/:id' element={<NoticiaPage />}></Route>
+          <Routes>
+            <Route path='/' element={<HomePage />}></Route>
+            <Route path='/news/:id' element={<NoticiaPage />}></Route>
+          </Routes>
         </Router>
       </main>
       <Footer />
