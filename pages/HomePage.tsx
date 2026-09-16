@@ -1,11 +1,12 @@
-function HomePage() {
-    const lista[]: any = [
 
-    ]
+
+function HomePage() {
 
     return(
         <div>
-
+            <ul>
+                
+            </ul>
         </div>
     )
 }
