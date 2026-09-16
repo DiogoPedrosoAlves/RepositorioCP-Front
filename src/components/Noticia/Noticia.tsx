@@ -14,7 +14,7 @@ interface NewsProps {
 function News(props: NewsProps) {
 
     return (
-        <div className='Cards'>
+        <div className='news-card'>
             <img src={imagem} />
             <h1>{props.titulo}</h1>
             <p>{props.comentarios}</p>

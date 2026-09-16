@@ -23,15 +23,10 @@
     margin: 0 0 10px;
 }
 
-.news-card p:first-of-type {
+.news-card p {
     font-size: 14px;
     line-height: 1.5;
     color: 777;
     margin: 0 0 12px;
-}
-
-.news-card p:last-of-type {
-    font-size: 13px;
     color: #999;
-    margin: 0;
 }
