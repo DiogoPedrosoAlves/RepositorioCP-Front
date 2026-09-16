@@ -1,8 +1,12 @@
 function HomePage() {
-    const 
+    const lista[]: any = [
+
+    ]
 
     return(
-        
+        <div>
+
+        </div>
     )
 }
 
