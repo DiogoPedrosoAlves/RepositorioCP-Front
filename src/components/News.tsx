@@ -1,7 +1,5 @@
-import Data from "../data/data.json"
-
 interface NewsProps {
-    id: string,
+    id: number,
     titulo: string,
     data: string,
     conteudo: string,
