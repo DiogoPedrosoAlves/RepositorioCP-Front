@@ -1,16 +1,12 @@
-import { Header } from '../src/components/Header/Header'
-import { Footer } from './components/Footer/Footer'
+import HomePage from "./pages/HomePage"
+
 
 function App() {
   
   return(
-  <div>
-      <Header/>
-      <main>
-
-      </main>
-      <Footer/>
-  </div>
+    <>
+      <HomePage/>
+    </>
   )
 }
 
