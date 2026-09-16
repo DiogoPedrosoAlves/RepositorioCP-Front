@@ -1,6 +1,6 @@
 import News from "../../components/Noticia/Noticia"
 
-function NoticiaPage {
+export function NoticiaPage() {
     return (
         <>
             <h1>Ola</h1>
