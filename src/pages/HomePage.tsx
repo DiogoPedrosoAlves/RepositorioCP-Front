@@ -15,6 +15,7 @@ function HomePage() {
                         {Data.map((data) =>
                             <li><Noticia id={data.id} titulo={data.titulo} data={data.data} conteudo={data.conteudo} imagem={data.imagem} categoria={data.categoria} comentarios={data.comentarios} />
                             </li>
+                            
                         )}
                     </ul>
                 </main>
