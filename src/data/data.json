@@ -1,13 +1,13 @@
 [
-    {"id": 1, "titulo": "Bom Dia", "data": "12/02/1200", "conteudo": "Jogo de Futebol", "imagem": "", "categoria": "Esporte", "comentarios": "Futebol é bom demais"},
-    {"id": 2, "titulo": "Futebol", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 3, "titulo": "Arte", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 4, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 5, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 6, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 7, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 8, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 9, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""},
-    {"id": 10, "titulo": "", "data": "", "conteudo": "", "imagem": "", "categoria": "", "comentarios": ""}
+    {"id": 1, "titulo": "Bom Dia", "data": "12/02/1200", "conteudo": "O dia é muito lindo", "imagem": "", "categoria": "Dia", "comentarios": "Começe o Dia com um Bom Dia"},
+    {"id": 2, "titulo": "Futebol", "data": "10/01/2000", "conteudo": "", "imagem": "", "categoria": "Esporte", "comentarios": ""},
+    {"id": 3, "titulo": "Arte", "data": "20/04/1500", "conteudo": "", "imagem": "", "categoria": "Cultura", "comentarios": ""},
+    {"id": 4, "titulo": "Escola", "data": "11/12/1977", "conteudo": "", "imagem": "", "categoria": "Estudo", "comentarios": ""},
+    {"id": 5, "titulo": "Faculdade", "data": "18/11/1980", "conteudo": "", "imagem": "", "categoria": "Estudo", "comentarios": ""},
+    {"id": 6, "titulo": "Café da Manhã", "data": "20/04/1970", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": ""},
+    {"id": 7, "titulo": "Janta", "data": "04/05/2020", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": ""},
+    {"id": 8, "titulo": "Almoço", "data": "30/06/2010", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": ""},
+    {"id": 9, "titulo": "Madrugada", "data": "11/07/2020", "conteudo": "", "imagem": "", "categoria": "Dia", "comentarios": ""},
+    {"id": 10, "titulo": "Noite", "data": "14/09/1700", "conteudo": "", "imagem": "", "categoria": "Dia", "comentarios": ""}
 
 ]
