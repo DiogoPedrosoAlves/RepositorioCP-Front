@@ -1,13 +1,13 @@
 [
     {"id": 1, "titulo": "Bom Dia", "data": "12/02/1200", "conteudo": "O dia é muito lindo", "imagem": "", "categoria": "Dia", "comentarios": "Começe o Dia com um Bom Dia"},
-    {"id": 2, "titulo": "Futebol", "data": "10/01/2000", "conteudo": "", "imagem": "", "categoria": "Esporte", "comentarios": ""},
-    {"id": 3, "titulo": "Arte", "data": "20/04/1500", "conteudo": "", "imagem": "", "categoria": "Cultura", "comentarios": ""},
-    {"id": 4, "titulo": "Escola", "data": "11/12/1977", "conteudo": "", "imagem": "", "categoria": "Estudo", "comentarios": ""},
-    {"id": 5, "titulo": "Faculdade", "data": "18/11/1980", "conteudo": "", "imagem": "", "categoria": "Estudo", "comentarios": ""},
-    {"id": 6, "titulo": "Café da Manhã", "data": "20/04/1970", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": ""},
-    {"id": 7, "titulo": "Janta", "data": "04/05/2020", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": ""},
-    {"id": 8, "titulo": "Almoço", "data": "30/06/2010", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": ""},
-    {"id": 9, "titulo": "Madrugada", "data": "11/07/2020", "conteudo": "", "imagem": "", "categoria": "Dia", "comentarios": ""},
-    {"id": 10, "titulo": "Noite", "data": "14/09/1700", "conteudo": "", "imagem": "", "categoria": "Dia", "comentarios": ""}
+    {"id": 2, "titulo": "Futebol", "data": "10/01/2000", "conteudo": "O ", "imagem": "", "categoria": "Esporte", "comentarios": "O futebol é o futebol americano do Brasil"},
+    {"id": 3, "titulo": "Arte", "data": "20/04/1500", "conteudo": "", "imagem": "", "categoria": "Cultura", "comentarios": "Arte de colocar uma banana na parede"},
+    {"id": 4, "titulo": "Escola", "data": "11/12/1977", "conteudo": "", "imagem": "", "categoria": "Estudo", "comentarios": "O lugar mais odiado e amado do mundo"},
+    {"id": 5, "titulo": "Faculdade", "data": "18/11/1980", "conteudo": "", "imagem": "", "categoria": "Estudo", "comentarios": "Pessoal tá cansado"},
+    {"id": 6, "titulo": "Café da Manhã", "data": "20/04/1970", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": "Tomo mundo gosta, mas nem todo mundo come"},
+    {"id": 7, "titulo": "Janta", "data": "04/05/2020", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": "Bom, principlamente em família"},
+    {"id": 8, "titulo": "Almoço", "data": "30/06/2010", "conteudo": "", "imagem": "", "categoria": "Comida", "comentarios": "Depois vem o sono a tarde"},
+    {"id": 9, "titulo": "Madrugada", "data": "11/07/2020", "conteudo": "", "imagem": "", "categoria": "Dia", "comentarios": "É bom pra dormir"},
+    {"id": 10, "titulo": "Noite", "data": "14/09/1700", "conteudo": "", "imagem": "", "categoria": "Dia", "comentarios": "Oração de final de noite"}
 
 ]
