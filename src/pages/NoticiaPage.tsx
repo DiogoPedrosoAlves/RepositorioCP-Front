@@ -1,8 +1,8 @@
 import News from "../components/Noticia/Noticia"
 
-function NoticiaPage {
+function NoticiaPage() {
     return (
-
+        <News />
     )
 }
 
